@@ -1,7 +1,8 @@
 # Pokemon
 
-![ios](./screenshots/login.png?raw=true 'ios') ![ios](./screenshots/home.png?raw=true 'ios')
-![ios](./screenshots/video.mp4?raw=true 'ios')
+<img src="/screenshots/login.png" style="width: 310px;height: 587px;" alt="Login">
+<img src="/screenshots/home.png" style="width: 310px;height: 587px;" alt="Home">
+<img src="/screenshots/video.gif" style="width: 310px;height: 587px;" alt="Video">
 
 ### Setup Project
 

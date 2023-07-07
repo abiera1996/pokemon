@@ -1,6 +1,6 @@
 # Pokemon
 
-![ios](./screenshots/login.png?raw=true = 640×1136  ) ![ios](./screenshots/home.png?raw=true = 640×1136 )
+![ios](./screenshots/login.png?raw=true) ![ios](./screenshots/home.png?raw=true)
 
 ### Setup Project
 

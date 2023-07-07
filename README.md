@@ -1,8 +1,16 @@
 # Pokemon
 
-<img src="/screenshots/login.png" style="width: 310px;height: 587px;" alt="Login">
-<img src="/screenshots/home.png" style="width: 310px;height: 587px;" alt="Home">
-<img src="/screenshots/video.gif" style="width: 310px;height: 587px;" alt="Video">
+### Login Credential
+```
+username: admin
+password: admin
+```
+
+<div style="display:flex">
+    <img src="/screenshots/login.png" style="width: 310px;height: 587px;" alt="Login">
+    <img src="/screenshots/home.png" style="width: 310px;height: 587px;" alt="Home">
+    <img src="/screenshots/video.gif" style="width: 310px;height: 587px;" alt="Video">
+</div>
 
 ### Setup Project
 
